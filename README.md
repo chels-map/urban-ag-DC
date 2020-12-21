@@ -2,7 +2,7 @@
 Urban farms and garden projects in Washington, DC
 
 ## About 
-I think farming in cities is not only super cool, but is the stuff of food security (or at least nutrition security) now and in the future. Thanksfully, planners and staff in Washington DC have pulled together some very nice data which I can turn into a pretty map in MapBox which looks at current sites of urban agriculture. 
+I think farming in cities is not only super cool, but is the stuff of food security (or at least nutrition security) now and in the future. Thankfully, planners and staff in Washington DC have pulled together some very nice data which I can turn into a pretty map in MapBox which looks at current sites of urban agriculture. 
 
 ## Data sources 
 Data for this map comes from shapefiles provided by the District Department of Transportation (DDOT) Urban Forestry division in Washington, DC. 
