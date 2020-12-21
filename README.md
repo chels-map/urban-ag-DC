@@ -17,6 +17,8 @@ Data for this map comes from shapefiles provided by the District Department of T
 
 Bus stop points from OpenStreetMapwere were added to QGIS 3.14, and the geojson added to MapBox as a tileset.
 
+GitHub Pages [Link](https://chels-map.github.io/urban-ag-DC/)
+
 <!--It's quite wordy with all the labels and layers on at the same time, is there a clever way to toggle the layers/a feature that can be added to the MapBox legend? Or should I format the different layers to come in at different zoom levels to prioritize? what do you think about the color scheme?
 
 What kind of analysis might be useful for people who live in DC which may see this map? Not Points of Interest like maybe for a tourist, because these gardens are not for the transient public but to serve the communities of place, the place being washington DC.-->
