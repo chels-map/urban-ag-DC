@@ -15,6 +15,8 @@ Data for this map comes from shapefiles provided by the District Department of T
 * [School garden points](https://urban-forestry-dcgis.opendata.arcgis.com/datasets/school-gardens)
     School garden data is self-reported and collected annually by the Office of the State Superintendent of Education (OSSE) as part of the School Health Profiles created under the Healthy School Act. 
 
+Bus stop points from OpenStreetMapwere added to QGIS 3.14, and the geojson added to MapBox as a tileset.
+
 <!--It's quite wordy with all the labels and layers on at the same time, is there a clever way to toggle the layers/a feature that can be added to the MapBox legend? Or should I format the different layers to come in at different zoom levels to prioritize? what do you think about the color scheme?
 
 What kind of analysis might be useful for people who live in DC which may see this map? Not Points of Interest like maybe for a tourist, because these gardens are not for the transient public but to serve the communities of place, the place being washington DC.-->

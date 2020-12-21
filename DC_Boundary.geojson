@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "DC_Boundary",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4269" } },
+"features": [
+{ "type": "Feature", "properties": { "STATEFP": "11", "STATENS": "01702382", "AFFGEOID": "0400000US11", "GEOID": "11", "STUSPS": "DC", "NAME": "District of Columbia", "LSAD": "00", "ALAND": 158340391, "AWATER": 18687198 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -77.119759, 38.934343 ], [ -77.041018, 38.995548 ], [ -77.002546244247, 38.965531700445901 ], [ -76.909393, 38.892852 ], [ -76.979497, 38.837812 ], [ -77.039006, 38.791645 ], [ -77.039066356764693, 38.841271889518602 ], [ -77.039099, 38.868112 ], [ -77.0902, 38.904211 ], [ -77.119759, 38.934343 ] ] ] ] } }
+]
+}
