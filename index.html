@@ -158,7 +158,6 @@
                     2. National Parks Service (NPS); or 3. independent organizations.
                     School garden data is self-reported and collected annually by the Office of the State Superintendent of Education (OSSE) as part of the 
                     School Health Profiles created under the Healthy School Act. 
-
                 </p>
 
                 <h3>Data used in this project</h3>
@@ -168,7 +167,7 @@
                     <li><a href="https://urban-forestry-dcgis.opendata.arcgis.com/datasets/community-gardens-polygons">Community Garden Polygons</a>.</li>
                     <li><a href="https://urban-forestry-dcgis.opendata.arcgis.com/datasets/school-gardens">School Garden Points</a>.</li>
                     <li>The DC administrative boundary layers used for downloaded bus stop points from OpenStreetMap is from <a href="https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html">the US Census Bureau</a>.</li>
-                    <li>Custom svg icons are from<a href="https://freesvg.org/icons">FreeSVG.com</a>.</li>
+                    <li>Custom svg icons are from <a href="https://freesvg.org/icons">FreeSVG.com</a>.</li>
                     <li>Additional layers come from MapBox default tilesets, with the new style created based off of the Basic style "Spring."</li>
 
                 </ul>
@@ -176,6 +175,7 @@
                 <h3>Tools used in this project</h3>
                 <ul>
                     <li>Layers were downloaded and inspected using QGIS 3.14, with shapefiles then uploaded onto MapBox Studio.</li>
+                    <li>QGIS 3.14 was also used to create the bus stops points layer, via clipping OpenStreetMap points data which overlapped with the DC boundary layer.</li>
                     <li>Data is shown on Mapbox web map.</li>
                 </ul>
 
@@ -187,10 +187,16 @@
             </div>
 
             <div class="column">
+                <p>Legend</p>
+                <p>School Gardens <img src="tomato.svg" class="svg-title"></p> <br>
+                <p>Urban Farms <img src="broccoli.svg" class="svg-title"></p> <br>
+                <p>Community Gardens <img src="cornns.svg" class="svg-title"></p> <br>
+                
                 <img class="max-image-width" src="../data-final-project/DC Urban Greens.JPG"
                     title="DC Urban Greens Veggies">
-                <div class="linkbox">Veggies from DC Urban Greens, a farm in DC which seeks to "Feed Bodies, Nourish Minds, Grow Communities" <a href = "https://www.dcurbangreens.org/feeding-bodies">Link: DC Urban Greens website</div>
-
+                <div class="linkbox">Veggies from DC Urban Greens, a farm in DC which seeks to "Feed Bodies, Nourish Minds, 
+                    Grow Communities" <a href = "https://www.dcurbangreens.org/feeding-bodies">Link: DC Urban Greens website</div>
+            
             </div>
         </div>
 
